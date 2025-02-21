@@ -1,3 +1,4 @@
+# 长图拼接脚本/详情页拼接脚本
 # Image-stitching-script
 Image stitching script is an efficient tool used to process stitched images through Photoshop./图片拼接脚本是用来通过Photoshop处理拼接图片的高效工具。
 脚本主要功能为拼接长图图片（无缝隙），批量合并需要手动导入<LoopAction.jsx>脚本，其他无需额外操作。
